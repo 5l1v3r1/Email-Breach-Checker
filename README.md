@@ -17,6 +17,8 @@ Just start up `pip3 install -r requirements` and you are ready to go!
 It's really easy:
 `python3 ebc.py admin@example.org` and it's all automated!
 
+[![asciicast](https://asciinema.org/a/210208.png)](https://asciinema.org/a/210208)
+
 ### Note
 To see possible cleartext password, you'll need a **VIP** account on [GhostProject](http://ghostproject.fr)
 
