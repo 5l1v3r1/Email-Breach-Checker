@@ -75,6 +75,8 @@ else:
 	if vip == '':
 		try:
 			driver.get("https://ghostproject.fr/")
+			info('Waiting 20 seconds to bypass cloudlare bot detection!')
+			driver.implicitly_wait(20)
 			search = driver.find_element_by_id('searchStr')
 			search.click()
 			search.clear()
