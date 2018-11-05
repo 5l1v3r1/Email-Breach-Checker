@@ -19,3 +19,6 @@ It's really easy:
 
 ### Note
 To see possible cleartext password, you'll need a **VIP** account on [GhostProject](http://ghostproject.fr)
+
+### P.S.
+Please, note that this script/tool has written fastly and badly. Have some mercy for me :P
