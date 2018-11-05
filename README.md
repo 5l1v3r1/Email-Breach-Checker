@@ -9,6 +9,7 @@ You'll need:
 - [Cloudflare Scraper](https://github.com/Anorov/cloudflare-scrape)
 - Termcolor
 - BeatifulSoup
+- geckodriver
 
 Just start up `pip3 install -r requirements` and you are ready to go!
 
