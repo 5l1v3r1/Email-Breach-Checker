@@ -14,7 +14,7 @@ Just start up `pip3 install -r requirements` and you are ready to go!
 
 ## Usage
 It's really easy:
-`sudo python3 ebc.py admin@example.org` and it's all automated!
+`python3 ebc.py admin@example.org` and it's all automated!
 
 ### Note
 To see possible cleartext password, you'll need a **VIP** account on [GhostProject](http://ghostproject.fr)
